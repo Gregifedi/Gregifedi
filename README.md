@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gregifedi
+- 👋 Hi, I’m @Gregmarkenzo
 - 👀 I’m interested in ... python programming 
 - 🌱 I’m currently learning ...kali linux
 - 💞️ I’m looking to collaborate on ...
